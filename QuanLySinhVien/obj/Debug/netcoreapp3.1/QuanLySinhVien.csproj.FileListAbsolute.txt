@@ -1,0 +1,13 @@
+D:\Java\Spring\QuanLySinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.exe
+D:\Java\Spring\QuanLySinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.deps.json
+D:\Java\Spring\QuanLySinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.runtimeconfig.json
+D:\Java\Spring\QuanLySinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.runtimeconfig.dev.json
+D:\Java\Spring\QuanLySinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.dll
+D:\Java\Spring\QuanLySinhVien\bin\Debug\netcoreapp3.1\QuanLySinhVien.pdb
+D:\Java\Spring\QuanLySinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Java\Spring\QuanLySinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.AssemblyInfoInputs.cache
+D:\Java\Spring\QuanLySinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.AssemblyInfo.cs
+D:\Java\Spring\QuanLySinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Java\Spring\QuanLySinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.dll
+D:\Java\Spring\QuanLySinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.pdb
+D:\Java\Spring\QuanLySinhVien\obj\Debug\netcoreapp3.1\QuanLySinhVien.genruntimeconfig.cache
